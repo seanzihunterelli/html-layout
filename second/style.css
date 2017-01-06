@@ -1,0 +1,39 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0px;
+}
+.left1 {
+  background-color: #4990E2;
+  float: left;
+  height: 930px;
+  width: 33%;
+}
+
+.left2 {
+  background-color: #4FE3C1;
+  float: left;
+  height: 930px;
+  width: 33%;
+}
+
+.right1 {
+  background-color: #B9E888;
+  float: left;
+  height: 730px;
+  width: 34%;
+}
+.right2 {
+  background-color: #D00219;
+  width: 34%;
+  float: left;
+  height: 200px;
+}
+p {
+  text-align: center;
+  margin: 80px 20px;
+  font-size: 30px;
+  color: white;
+  font-family: sans-serif;
+}
