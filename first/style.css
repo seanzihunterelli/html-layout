@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+}
+header {
+  background-color: #444444;
+  height: 175px;
+}
+body {
+  background-color: #D8D8D8;
+  margin: 0px;
+  text-align: center;
+}
+footer {
+  background-color: #232323;
+  height: 75px;
+  position: fixed;
+  bottom: 0px;
+  text-align: center;
+  width: 70%;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+.container {
+  background-color: #EFEFEF;
+  height: 700px;
+  width: 70%;
+  text-align: center;
+  margin-left: 15%;
+  margin-right: 15%;
+}
